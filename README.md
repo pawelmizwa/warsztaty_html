@@ -1,3 +1,6 @@
-##Pierwsze repo
+#Pierwsze repo
 opis projektu
-technologie uzyte
+
+##Technologie:
+* css3
+* html
